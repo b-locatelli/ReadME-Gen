@@ -29,7 +29,7 @@ function renderLicenseSection(license) {
     return '';
   } else {
     return `## Licenses
-    ${license}`
+    Your application is covered under ${license}`
   }
 }
 
