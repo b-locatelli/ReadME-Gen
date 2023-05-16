@@ -88,7 +88,6 @@ const questions = [
         name: 'license',
         message: 'What liscence would you like to use?',
         choices: ['MIT', 'ISC', 'Apache liscense 2.0'],
-        default: ['MIT'],
         validate: licenseInput => {
             if (licenseInput) {
                 return true;
