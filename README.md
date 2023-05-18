@@ -6,4 +6,4 @@ README generator that consists of using node to generate a quality reasd me. It 
 
 github: https://github.com/b-locatelli/ReadME-Gen 
  
-video: 
+video: https://drive.google.com/file/d/11EhfqaTZLWqlPYxa23JThAeQKifxl2D2/view

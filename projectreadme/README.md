@@ -12,19 +12,19 @@
   * [Questions](#questions)
 
   ## Description
-  Create a high quality readme file for your application
+  Creates a quality readme file for your application
 
   ## Installation
-  use github https://github.com/b-locatelli to create the read me
+  Go to https://github.com/b-locatelli/ReadME-Gen to create the readme
 
   ## Usage
-  Use node index.js and answer all given questions to provide information to develope a readme
+  Use node index.js in the terminal to create the readme file
 
   ## Licenses
     Your application is covered under MIT
 
   ## Contributing
-  This application is open to anyone who wants to add their own touch
+  This project is open to anyones touch
 
   ## Tests
   N/A

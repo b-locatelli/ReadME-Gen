@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
   if (license === 'ISC') {
     return 'https://opensource.org/licenses/ISC'
   }
-  if (license === 'Apache liscense 2.0') {
+  if (license === 'Apache license 2.0') {
     return 'https://opensource.org/licenses/Apache-2.0'
   }
 }
