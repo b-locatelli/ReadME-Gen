@@ -73,12 +73,12 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: 'Test instrcutions',
+        message: 'Test instructions',
         validate: testInput => {
             if (testInput) {
                 return true;
             } else {
-                console.log('Enter test intrcutions');
+                console.log('Enter test instructions');
                 return false;
             }
         }
@@ -133,7 +133,7 @@ const writeToFile = data => {
           console.log(err);
           return;
       } else {
-          console.log('Your Read me has been created!')
+          console.log('Your README has been created!')
       }
     })
 };
